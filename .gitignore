@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Downloaded corpora and local datasets
+SUD/
+
+# Generated analysis outputs
+figures/
+figures_pure_random/
+figures_random/
+inference_results/
+ks_results/
