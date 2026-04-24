@@ -1,0 +1,9 @@
+lang,language,sud_train_file_found,sud_train_file,sentence_level_rows_in_pure_random_structures
+en,English,True,SUD\en-sud-train.conllu,9936
+hi,Hindi,True,SUD\hi-sud-train.conllu,4760
+zh,Chinese,True,SUD\zh-sud-train.conllu,1176
+ja,Japanese,True,SUD\ja-sud-train.conllu,3386
+tr,Turkish,True,SUD\tr-sud-train.conllu,4914
+fi,Finnish,True,SUD\fi-sud-train.conllu,14516
+ar,Arabic,True,SUD\ar-sud-train.conllu,2148
+es,Spanish,True,SUD\es-sud-train.conllu,4282

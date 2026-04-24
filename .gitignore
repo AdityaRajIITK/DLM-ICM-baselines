@@ -7,8 +7,3 @@ __pycache__/
 SUD/
 
 # Generated analysis outputs
-figures/
-figures_pure_random/
-figures_random/
-inference_results/
-ks_results/

@@ -1,0 +1,22 @@
+dataset_key,dataset_label,lang,measure,n_real,n_random,real_mean,random_mean,ks_statistic,p_value,p_value_display
+matched_random,Matched random structures,overall,mean_dep_distance,17591,17591,0.8411015102419848,1.2707104462689656,0.30129043260758337,0.0,<1e-300
+matched_random,Matched random structures,overall,mean_intervener_complexity,17591,17591,1.1583236332071036,1.4619857241212095,0.3866181570121085,0.0,<1e-300
+matched_random,Matched random structures,overall,tree_depth,17591,17591,3.5489739071115913,4.446648854527884,0.30987436757432774,0.0,<1e-300
+matched_random,Matched random structures,overall,tree_density,17591,17591,0.36131453765093474,0.46586512247218176,0.3887783525666534,0.0,<1e-300
+matched_random,Matched random structures,overall,max_arity,17591,17591,3.103234608606674,2.5169120573020294,0.229208117787505,0.0,<1e-300
+matched_random,Matched random structures,overall,avg_arity,17591,17591,0.8594634759689634,0.8594634759689634,0.0,1.0,1.000e+00
+matched_random,Matched random structures,overall,proportion_high_arity_nodes,17591,17591,0.08913537223952807,0.05554767240856779,0.2291512705360696,0.0,<1e-300
+pure_random_pruefer,Pure random (Pruefer),overall,mean_dep_distance,22559,22559,0.7785871369396815,1.694052474041618,0.4778580610842679,0.0,<1e-300
+pure_random_pruefer,Pure random (Pruefer),overall,mean_intervener_complexity,22559,22559,1.147028814037567,1.926393471229232,0.639301387472849,0.0,<1e-300
+pure_random_pruefer,Pure random (Pruefer),overall,tree_depth,22559,22559,3.642049736247174,4.72587437386409,0.34132718648876276,0.0,<1e-300
+pure_random_pruefer,Pure random (Pruefer),overall,tree_density,22559,22559,0.3734093522305067,0.5087633169319092,0.4886741433574183,0.0,<1e-300
+pure_random_pruefer,Pure random (Pruefer),overall,max_arity,22559,22559,2.9507070348862983,2.1535529057139056,0.3505031251385256,0.0,<1e-300
+pure_random_pruefer,Pure random (Pruefer),overall,avg_arity,22559,22559,0.8547452928785577,0.8547452928785577,0.0,1.0,1.000e+00
+pure_random_pruefer,Pure random (Pruefer),overall,proportion_high_arity_nodes,22559,22559,0.08123787617826232,0.0323539470365575,0.3505031251385256,0.0,<1e-300
+pure_random_root0,Pure random (root 0),overall,mean_dep_distance,22559,22559,0.7785871369396815,1.5234738319981496,0.4454541424708542,0.0,<1e-300
+pure_random_root0,Pure random (root 0),overall,mean_intervener_complexity,22559,22559,1.147028814037567,1.6649619672947567,0.5768429451660091,0.0,<1e-300
+pure_random_root0,Pure random (root 0),overall,tree_depth,22559,22559,3.642049736247174,3.111662751008467,0.1723480650738065,1.885368121996697e-293,1.885e-293
+pure_random_root0,Pure random (root 0),overall,tree_density,22559,22559,0.3734093522305067,0.49993154074673724,0.4516600913161044,0.0,<1e-300
+pure_random_root0,Pure random (root 0),overall,max_arity,22559,22559,2.9507070348862983,2.915244470056297,0.05563189857706459,8.743508634884887e-31,8.744e-31
+pure_random_root0,Pure random (root 0),overall,avg_arity,22559,22559,0.8547452928785577,0.8547452928785577,0.0,1.0,1.000e+00
+pure_random_root0,Pure random (root 0),overall,proportion_high_arity_nodes,22559,22559,0.08123787617826232,0.08768751614732581,0.05146504720953937,2.092608020336452e-26,2.093e-26
